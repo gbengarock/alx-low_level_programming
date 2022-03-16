@@ -1,10 +1,4 @@
 #include "main.h"
-
-/*
- * File: 4-isalpha.c
- * Auth: Adeyemi Anifowose
- */
-
 /**
  * _isalpha - Checks if a character is alphabetic.
  * @c: The character to be checked.
