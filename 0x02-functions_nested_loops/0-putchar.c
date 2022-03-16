@@ -1,12 +1,17 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - Prints "Holberton" followed by a new line.
- *
- * Return: Always 0.
+ * main- This function display the words given.
+(* a blank line
+ * Description: I used main to display _putchar
+(* section header: Section description)*
+ * Return: Always return 0.
  */
+
 int main(void)
 {
+	/*this spell the _putchar*/
+
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
