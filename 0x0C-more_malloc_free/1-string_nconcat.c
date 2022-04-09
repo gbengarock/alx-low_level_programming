@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
@@ -46,3 +47,9 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	return (str);
 }
 
+=======
+cat 1-string_nconcat.c
+
+
+[A[A
+>>>>>>> 76c769141808f088f7aadaecb487201212f42daf
